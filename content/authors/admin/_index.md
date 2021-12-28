@@ -4,14 +4,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: Psychology
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: UC Davis 
+    year: Expected: 2025 
+  - course: M.A. in Psychology 
+    institution: UC Davis 
+    year: Expected: 2022 
+  - course: B.A. in Psychology
+    institution: Cal Poly Pomona 
+    year: 2020
 email: ""
 highlight_name: true
 interests:
