@@ -12,7 +12,7 @@ education:
   - course: B.A. in Psychology
     institution: Cal Poly Pomona 
     year: 2020
-email: ""
+email: "btcotter@ucdavis.edu"
 highlight_name: true
 interests:
 - Psycholinguistics
