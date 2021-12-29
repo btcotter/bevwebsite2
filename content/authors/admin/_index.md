@@ -42,7 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/beverly-c-585a1110b/
 superuser: true
-title: Beverly Cotter
+title: Beverly Teresa Cotter
 ---
 
 Hello! I'm a second year Ph.D. student at the University of California, Davis working with Dr. Fernanda Ferreira in the Ferreira Lab. My research interests are broadly in bilingual language processing with a particular interest in sentence processing at the syntax level and how individual differences in working memory might modulate these processes. My projects mainly employ the use of eyetracking to examine these research areas of psycholinguistics. 
